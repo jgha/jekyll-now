@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Acerca de Mí
 permalink: /about/
 ---
 
@@ -9,10 +9,14 @@ Computer Engineer with 9 years of experience in information technology, software
 [Spanish]
 Ingeniero en Informática, con 9 años de experiencia en tecnologías de la información, desarrollo de Software, sólidos conocimientos en lenguajes de programación Web, administración de bases de datos, manejo de tecnologías Open Source (Linux), Soporte funcional de aplicaciones; destacadas competencias relacionales,  al logro de resultados y a generar soluciones innovadoras que aporten valor agregado a la organización.
 
-### More Information
+### Experiencia Profesional
 
-A place to include any other types of information that you'd like to include about yourself.
+Sep/2011 - Abr/2016: Desitec R.L. (Programador de Aplicaciones Web) 
+-Diseñar y mantención DB, Estructurar Aplicaciones, Migrar Datos, Soporte  Funcional en el área de Presupuesto y RRHH a clientes de la empresa, Diseñar y elaborar reportes por solicitud de los clientes en diferentes áreas administrativas .
 
-### Contact me
+Sep/2007 – Dic/2010:  J&L Vision Integral C.A. (Programador Web) 
+-Diseñar Logotipo, Maquetar Interfaz, Desarrollo y mantención de diferentes módulos que componen al sistema, Creación de reportes y consolidación de información del Sistema Integrado de Soluciones para la Administración Pública (SISAP).
+
+### Contact me | Contáctame
 
 [jghernandez84@gmail.com](mailto:jghernandez84@gmail.com)
